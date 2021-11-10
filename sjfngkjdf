@@ -1,0 +1,31 @@
+[33mcommit 54ca9df3649a479aa7220f1a96f6f8368d0a7217[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: erjoshivaibhav <64883756+erjoshivaibhav@users.noreply.github.com>
+Date:   Wed Nov 10 14:20:50 2021 +0530
+
+    fixed the spelling in confif.properties:Commit 5
+
+[33mcommit 5a7c72726db475c1682514c74c85f2edde904df6[m
+Author: Vaibhav Joshi <erjoshivaibhav@gmail.com>
+Date:   Wed Nov 10 14:18:24 2021 +0530
+
+    this is commit 4:Commit 4
+
+[33mcommit 4b6b020ec566082e79bf97b0d47baef86db18fdb[m
+Author: erjoshivaibhav <64883756+erjoshivaibhav@users.noreply.github.com>
+Date:   Wed Nov 10 14:15:55 2021 +0530
+
+    Update config.properties
+    
+    This is Commit 3 made from github:Commit 3
+
+[33mcommit c377ab5d7cd8de2e4acbf84153dbd5fcf6de544d[m
+Author: Vaibhav Joshi <erjoshivaibhav@gmail.com>
+Date:   Wed Nov 10 14:14:17 2021 +0530
+
+    This is second commit:Commit 2
+
+[33mcommit 5a9e61a2f5fda5c01a65e23b6999650ca827f2e3[m
+Author: Vaibhav Joshi <erjoshivaibhav@gmail.com>
+Date:   Wed Nov 10 14:08:29 2021 +0530
+
+    this is my first commit: Commit 1
